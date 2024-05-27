@@ -1,0 +1,13 @@
+PIL==10.2.0
+altair==5.0.1
+catboost==1.2.5
+category_encoders==2.6.3
+docx2txt==0.8
+feature_engine==1.7.0
+matplotlib==3.7.5
+numpy==1.26.4
+pandas==2.1.4
+pycaret==3.3.2
+seaborn==0.12.2
+sklearn==1.4.2
+statsmodels==0.14.0
